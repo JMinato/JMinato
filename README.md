@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hola, soy Diego<br><br>🎓 Estudiante de Ingeniería de Sistemas  <br>💻 Apasionado por aprender nuevos lenguajes de programación y asumir desafíos  <br>🚀 Interesado en el desarrollo de software con enfoque en soluciones útiles  <br>🌐 Busco ganar experiencia en la creación de páginas web que aporten valor  <br>📈 En constante crecimiento para convertirme en un profesional íntegro y competitivo
+ 👋 Hola, soy Diego<br><br>🎓 Estudiante de Ingeniería de Sistemas  <br>💻 Apasionado por aprender nuevos lenguajes de programación y asumir desafíos  <br>🚀 Interesado en el desarrollo de software con enfoque en soluciones útiles  <br>🌐 Busco ganar experiencia en la creación de páginas web que aporten valor  <br>📈 En constante crecimiento para convertirme en un profesional íntegro y competitivo
 
 
 # 💻 Tech Stack:
